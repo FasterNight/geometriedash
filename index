@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <div class="bk">
+        <link rel="stylesheet" href="stylesheet.css" type="text/css" charset="utf-8" />
+        <link href="Style.css" rel="stylesheet" type="text/css">
+
+        <div class="header">
+            <title>
+                Geometry Dash
+            </title>
+            <img class="cube_logo" src="Geometry_Dash/logo.jfif" alt="" weight="150" height="150">
+            <h1>
+                Geometry Dash
+            </h1>
+            <div>
+                <a class="buton" href="./subzero.html" >
+                    Subzero
+                </a>                
+                <a class="buton" href="./meltdown.html">
+                    Meltdown
+                </a>
+                <a class="buton" href="./world.html">
+                    World
+                </a>
+    
+            </div>
+        </div>
+    </head>
+    <body>
+
+        <div>
+            <div class="bloc">
+                <h3 class="st">
+                    Caractéristique du jeu : 
+                </h3>
+                <div class="texte">
+                <p>
+                    Geometry Dash est un jeu vidéo développé par Robert Topala et sorti en Août 2013, disponible sur mobile ou sur Steam.
+                    Le but du jeu est très simple : faire progresser un cube sur un parcours rempli d'obstacles et de pièges.
+                    Pour cela, il faut faire sauter le cube en appuyant sur votre écran ou votre souris.
+                    Les parcours sont des niveaux finis qu'il faut traverser sans faire d'erreurs, auquel cas, le joueur reviendra au début du niveau.
+                    Au cours du niveau, le cube pourra se transformer en différentes formes (ex: en vaisseau, en robot etc...) et subir des changements de caractéristique (ex: anti-gravité, écran inversé).
+                    Il existe aussi des versions gratuites un peu moins complètes mais qui peuvent aider a faire découvrir et aimer le jeu (Géometry Dash Meltdown, Subzero, World et Lite).
+                </p>
+                </div>
+                <div class="image">
+                    <iframe width="550" height="300" src="https://www.youtube.com/embed/k90y6PIzIaE?si=_jxt8tfjFHRSD8Qs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                </div>
+            </div>
+        
+
+        
+            <div>
+                <p>
+                    Le jeu de base est constituer d'un total de 22 Levels répartie en plusieurs difficulté représenter comme ci-dessous :
+                </p>
+       
+                <img src="Geometry_Dash/dif.png">
+            </div>
+            
+            <div>
+                <p>
+                    Il existe différent mode qui modifie le gameplay et augmente la difficultée :
+                </p>
+                <h3>
+                    Tableaux des transformations :
+                </h3>
+                <table>
+                    <tr>
+                        <th>Cube</th>
+                        <th>Ship</th>
+                        <th>Ball</th>
+                        <th>UFO</th>
+                        <th>Wave</th>
+                        <th>Robot</th>
+                        <th>Spider</th>
+                    </tr>
+                    <tr>
+                        <td><img src="Geometry_Dash/cube_skin.webp"alt="" width="300px" height="300px"></td>
+                        <td><img src="Geometry_Dash/ship_skin.webp"></td>
+                        <td><img src="Geometry_Dash/ball_skin.webp"alt="" width="320px" height="300px"></td>
+                        <td><img src="Geometry_Dash/ufo_skin.webp"></td>
+                        <td><img src="Geometry_Dash/wave_skin.webp"alt="" width="300px" height="300px"></td>
+                        <td><img src="Geometry_Dash/robot_skin.webp" alt="" width="300px" height="300px"></td>
+                        <td><img src="Geometry_Dash/spider_skin.webp"alt="" width="320px" height="300px"></td>
+                    </tr>
+                </table>
+            </div>
+
+            <div>
+                <p>
+                    Vous pouvez également modifier le skin de votre cube dans le menu de personnalisation :
+                </p>
+                <img src="Geometry_Dash/cube.jpg">
+            
+            </div>
+
+
+        </div>
+
+
+
+        <div> 
+           
+            <p>
+                Le multiplayer est la raison pour laquelle le jeu perdure dans le temps car VOUS pouvez creer VOS propre 
+                niveaux, les mettres en ligne y faire jouer vos amis et même jouer au niveau des créateurs du monde entier.
+
+            </p>
+            <img src="Geometry_Dash/multi.jpg">
+            <img src="Geometry_Dash/crea_niv.jfif">
+
+            
+        </div>
+
+    </body>
+</div>
+        
+
+</html>
