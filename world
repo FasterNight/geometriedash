@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <link href="Style.css" rel="stylesheet" type="text/css">
+
+        <div class="header">
+        <title>
+            Geometry Dash World
+        </title>
+
+        <img class="cube_logo" src="Geometry_Dash/world.png" alt="" width="300px" height="300px">
+
+        <h1>
+            Geometry Dash World
+        </h1>
+        <div>
+            <a class="buton" href="./Index.html">
+                Accueil
+            </a>
+        </div>
+    </div>
+    </head>
+
+    <body>
+
+        <h4>Histoire</h4>
+        <p>
+            Geometry Dash Subzero est en quelque sorte une des suites du jeu Geometry Dash original.
+            Sortie le 13 Août 2013 Geometry DAsh World se démarque des autres jeu en étant composé de 2 monde different, Dashlands et Toxic Factories.
+        </p>
+
+        <h4>Niveaux</h4>
+        <p>
+            le jeu est composé de 10 niveaux (5 par monde) tous relativement court ayant pour bute de montrer des mécaniques différentes a chaque niveau.
+        </p>
+        <img src="Geometry_Dash/ile.webp">
+    </body>
+
+
+
+
+
+</html>
