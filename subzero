@@ -2,6 +2,7 @@
 
 <html>
     <head>
+        <div class="bk">
         <link href="Style.css" rel="stylesheet" type="text/css">
 
         <div class="header">
@@ -23,17 +24,38 @@
     </head>
 
     <body>
-        <h4>Histoire</h4>
-        <p>
+        <div class="bloc"> 
+        <h4 class="st">Histoire</h4>
+        <p class="texte">
             Geometry Dash Subzero est en quelque sorte une des suites du jeu Geometry Dash original. 
             Sortie le 21 décembre 2017 il se démarque des autres jeux de la liscence en introduisant pour la première fois un "Boss Fight" dans un niveau Geometry Dash.
             En effet dans le nievau "Press start" le joueur est poursuivi par un crane géant qui a la fin du niveau lui tire dessus.
             Ce niveau fait mainteant partie des niveaux emblématiques du jeux. 
         </p>
-        <img src="Geometry_Dash/press_start.gif">
-
+        
+        <h4 class="st2">Niveaux</h4>
+        <p class="texte">
+            Le jeu comporte 3 niveaux :
+            - Press Start
+            - Nock Em
+            - Power Trip
+        </p>
+        <div class="image">
+        <img src="Geometry_Dash/press_start.gif" width="550px" height="300px">
+        </div>
+        </div>
     </body>
-
+    <footer>
+        <div class="bloc_6">
+            <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+                Mentions légales :
+            </a>
+            <p>
+                © Hugo & Antoine : G-tech1
+            </p>
+        </div>
+    </footer>
+    </div>
 
 
 
