@@ -2,6 +2,7 @@
 
 <html>
     <head>
+        <div class="bk">
         <link href="Style.css" rel="stylesheet" type="text/css">
 
         <div class="header">
@@ -23,7 +24,7 @@
     </head>
 
     <body>
-
+        <div class="bloc">
         <h4>Histoire</h4>
         <p>
             Geometry Dash Subzero est en quelque sorte une des suites du jeu Geometry Dash original.
@@ -32,11 +33,22 @@
 
         <h4>Niveaux</h4>
         <p>
-            le jeu est composé de 10 niveaux (5 par monde) tous relativement court ayant pour bute de montrer des mécaniques différentes a chaque niveau.
+            Le jeu est composé de 10 niveaux (5 par monde) tous relativement court ayant pour bute de montrer des mécaniques différentes a chaque niveau.
         </p>
         <img src="Geometry_Dash/ile.webp">
+        </div>
     </body>
-
+    <footer>
+        <div class="bloc_6">
+            <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+                Mentions légales :
+            </a>
+            <p>
+                © Hugo & Antoine : G-tech1
+            </p>
+        </div>
+    </footer>
+</div>
 
 
 
