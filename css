@@ -54,7 +54,7 @@
     margin-right: 50px;
     margin-left: 50px;
     outline: 5px solid yellow;
-    background-color: blue;
+    background: linear-gradient(blue, rgb(63, 1, 63));
     height: 500px;
 
     
@@ -80,6 +80,116 @@
     height: 300px;
 }
 
+.bloc_2{
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    outline: 5px solid yellow;
+    background: linear-gradient(rgb(63, 1, 63), rgb(138, 60, 138));
+    width: 850px;
+    height: 500px;
+    float: right;
+}
 
+.bloc_1{
+    float: left;
+    
+    width: 200px;
+    margin-left: 25px;
+}
 
+.img{
+    background-color: blue;
+    outline:  5px solid yellow;
+    margin-left: 300px;
+    margin-bottom: 50px;
+    width: 500px;
+    height: 300px;
+}
 
+.image_2{
+    
+    background-color: blue;
+    margin-left: 150px;
+    margin-bottom: 50px;
+    width: 600px;
+    height: 400px;
+    margin-top: 75px;
+    outline: 5px solid yellow;
+}
+
+.bloc_3{
+    background: linear-gradient(rgb(138, 60, 138),rgb(226, 44, 74));
+    margin-top: 125px;
+    
+    margin-right: 50px;
+    margin-left: 50px;
+    outline: 5px solid yellow;
+   
+    height: 400px;
+}
+
+.tableau{
+    outline: 5px solid yellow;
+    padding: 20px;
+    margin-left: 200px;
+}
+
+.bloc_4{
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    outline: 5px solid yellow;
+    background: linear-gradient(rgb(226, 44, 74), rgb(218, 80, 1));
+    height: 550px;
+    width: 750px;
+    float: left;
+
+}
+
+.image_3{
+    margin-left: 50px;
+    outline: 5px solid yellow;
+    width: 600px;
+}
+
+.bloc_5{
+    margin-top: 150px;
+    margin-right: 50px;
+    margin-left: 50px;
+    outline: 5px solid yellow;
+    background: linear-gradient(rgb(218, 80, 1), rgb(151, 141, 2));
+    height: 500px;
+   
+}
+
+.image_4{
+    width: 500px;
+    height: 300px;
+    outline: 5px solid yellow;
+    margin-left: 100px;
+}
+
+.image_5{
+    width: 500px;
+    height: 300px;
+    outline: 5px solid yellow;
+    margin-left: 50px;
+}
+
+.image_6{
+    outline: 5px solid yellow;
+    width: 800px;
+    height: 400px;
+    margin-left: 900px;
+    margin-top: 100px;
+}
+
+.bloc_6{
+    
+    margin-top: 50px;
+}
+
+.st2{
+    color: yellow;
+}
