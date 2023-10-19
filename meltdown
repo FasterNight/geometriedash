@@ -2,6 +2,7 @@
 
 <html>
     <head>
+        <div class="bk">
         <link href="Style.css" rel="stylesheet" type="text/css">
         <div class="header">
         <title>
@@ -22,14 +23,17 @@
     </head>
 
     <body>
-        <h4>Histoire</h4>
+        <div class="bloc">
+        <h4 class="st">Histoire</h4>
+        <div class="texte">
         <p>
             Geometry Dash Subzero est en quelque sorte une des suites du jeu Geometry Dash original.
             Il est sortie le 19 décembre 2015 a l'occasion de la mise a jour 2.0 de Geometry Dash.
             Son but étant de faire découvrir les nouvelles fonctionalités du jeu a travers de nouveaux niveaux.
         </p>
+         </div>
 
-        <h4>niveaux</h4>
+        <h4>Niveaux</h4>
         <p>
             Le jeu comporte trois niveaux :
             - The Seven Seas
@@ -37,7 +41,22 @@
             - Airborne Robots 
         </p>
 
-        <img src="Geometry_Dash/Airborne.webp">
+        <img src="Geometry_Dash/Airborne.webp" alt="" width="500px" height="300px">
+        </div>
     </body>
+    <footer>
+        <div class="bloc_6">
+            <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+                Mentions légales :
+            </a>
+            <p>
+                © Hugo & Antoine : G-tech1
+            </p>
+        </div>
+    </footer>
+    </div>
 
 
+
+
+</html>
